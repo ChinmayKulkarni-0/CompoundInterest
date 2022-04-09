@@ -1,4 +1,4 @@
-# flutter_application_1
+# Compounding calculator
 
 A new Flutter project.
 
